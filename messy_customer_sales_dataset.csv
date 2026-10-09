@@ -1,0 +1,21 @@
+Customer_ID,Name,Age,City,Email,Purchase_Amount,Purchase_Date,Product
+C001,  Ravi Kumar,21.0,chennai,ravi.kumar@gmail.com,1250.5,2026-01-05,Laptop
+C002,Priya  Sharma,22.0,Madurai,priya.sharma@gmail.com,2300.0,2026-01-08,Headphones
+C003,Ravi Kumar,, Chennai ,ravi.kumar@gmail.com,1250.5,2026-01-05,Laptop
+C004,Arun Raj ,24.0,Chennai,arun.raj@gmail.com,4500.0,2026/01/12,Keyboard
+C005, Meena Devi,25.0,MADURAI,meena.devi@gmail.com,,13-01-2026,Mouse
+C006,Karthik S,23.0,tirunelveli,karthik.s@gmail.com,1800.0,2026-01-15,Monitor
+C007,Divya R,21.0,Chennai,divya.r@gmail.com,2750.0,2026-01-18,Keyboard
+C008,  Mohammed Ali,28.0, Coimbatore,mohammed.ali@gmail.com,3200.0,2026-01-20,Laptop
+C009,Sanjay Kumar,35.0,madurai,sanjay.kumar@gmail.com,5100.0,21/01/2026,Monitor
+C010,Lakshmi P,,Chennai,lakshmi.p@gmail.com,2100.0,2026-01-22,Mouse
+C011,Priya Sharma ,22.0,MADURAI,priya.sharma@gmail.com,2300.0,2026-01-08,Headphones
+C012,Vijay M,29.0,Chennai ,vijay.m@gmail.com,1500.0,2026-01-25,Laptop
+C013,Anitha R,31.0,TIRUNELVELI,anitha.r@gmail.com,3900.0,2026/01/27,Keyboard
+C014,Rahul S ,26.0,Coimbatore,rahul.s@gmail.com,,2026-01-28,Mouse
+C015, Meena Devi,25.0, Madurai ,meena.devi@gmail.com,1800.0,2026-01-15,Monitor
+C016,Naveen K,24.0,CHENNAI,naveen.k@gmail.com,2600.0,2026-02-01,Laptop
+C017,Divya R,21.0,Chennai,divya.r@gmail.com,2750.0,2026-01-18,Keyboard
+C018,Suresh B,33.0,coimbatore,suresh.b@gmail.com,4200.0,2026-02-03,Monitor
+C019,Fathima A,,Tirunelveli ,fathima.a@gmail.com,1950.0,04-02-2026,Headphones
+C020,  Hari Prasad ,27.0, chennai,hari.prasad@gmail.com,3100.0,2026-02-05,Mouse

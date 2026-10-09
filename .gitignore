@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Environment variables and secrets
+.env
+
+# Editor settings
+.vscode/
+
+# Generated output
+cleaned_customer_sales.csv
