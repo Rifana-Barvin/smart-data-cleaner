@@ -90,6 +90,14 @@ The included sample dataset contains customer and sales information with intenti
 ## Screenshots
 
 Screenshots of the application will be added here.
+<img width="1428" height="650" alt="image" src="https://github.com/user-attachments/assets/9fcc5f6f-ffa2-4ebb-b31d-fb205d278c97" />
+<img width="1495" height="1002" alt="image" src="https://github.com/user-attachments/assets/56279b20-7c59-4a7d-ae72-d79ed9786a15" />
+<img width="1330" height="956" alt="image" src="https://github.com/user-attachments/assets/ada15405-428d-4b25-b9f1-e83f725a5a38" />
+<img width="1390" height="660" alt="image" src="https://github.com/user-attachments/assets/b16cda1e-616c-4aef-8a61-338799ee4bf8" />
+<img width="1571" height="971" alt="image" src="https://github.com/user-attachments/assets/4885b01e-d07e-41e0-9a7c-20d77719ab16" />
+<img width="1055" height="937" alt="image" src="https://github.com/user-attachments/assets/a9042c10-2365-40b1-8323-c27cf09c383a" />
+<img width="1226" height="970" alt="image" src="https://github.com/user-attachments/assets/7c1bd489-e48a-4e7e-8625-48d49ee43f92" />
+
 
 ## Future Improvements
 
